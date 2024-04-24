@@ -4,7 +4,7 @@ import Card from './Card'
 const Home=()=>{
     let People=[
         {
-            name:'Priyanka',
+            name:'Priyankaa',
             age:20,
             learning:'Mern stack Development',
             img:'https://img.freepik.com/free-photo/amazing-cheerful-business-woman-standing-with-arms-crossed_171337-8487.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713744000&semt=ais'
